@@ -1,4 +1,5 @@
 # please install following libraries before running nltk,pandas,matplotlib,seaborn,chardet,numpy,seaborn,demote,sklearn,joblib,pickle
+# download nltk.stopwords
 # please keep the data and this file in same location
 
 
